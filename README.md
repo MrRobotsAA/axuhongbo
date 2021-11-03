@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![axuhongbo's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axuhongbo&layout=compact&hide_border=true&langs_count=10)
+
+[![axuhongbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=axuhongbo)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **axuhongbo/axuhongbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
