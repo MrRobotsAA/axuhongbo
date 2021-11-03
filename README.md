@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Metrics](https://metrics.lecoq.io/axuhongbo?template=classic&isocalendar=1&languages=1&habits=1&lines=1&achievements=1&support=1&nightscout=1&projects=1&stars=1&introduction=1&traffic=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&stars.limit=4&projects.limit=4&projects.descriptions=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&nightscout.url=https%3A%2F%2Fexample.herokuapp.com&nightscout.datapoints=12&nightscout.lowalert=80&nightscout.highalert=180&nightscout.urgentlowalert=50&nightscout.urgenthighalert=250&config.timezone=Asia%2FShanghai)
+
+
 ![axuhongbo's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axuhongbo&layout=compact&hide_border=true&langs_count=10)
 
 [![axuhongbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=axuhongbo)](https://github.com/anuraghazra/github-readme-stats)
